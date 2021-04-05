@@ -1,8 +1,13 @@
 .footer {
-  position: relative;
+  position: absolute;
+  top: 1400px;
   padding: 64px;
   background: hsl(0deg, 0%, 5%);
   color: white;
   text-align: center;
+  width: 100%;
 }
 
+.footer a {
+  color: white;
+}
